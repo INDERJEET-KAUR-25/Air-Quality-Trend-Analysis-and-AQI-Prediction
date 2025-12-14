@@ -45,7 +45,6 @@ The project is developed as part of **CA2 – Skill Based Assessment**, emphasiz
   - pandas, numpy
   - matplotlib, seaborn
   - scikit-learn
-  - joblib
 - **Environment:** Jupyter Notebook / Python script
 
 ---
@@ -93,5 +92,3 @@ The project is developed as part of **CA2 – Skill Based Assessment**, emphasiz
 - Significant year-over-year AQI variability exists across regions
 
 ---
-
-## 📁 Project Structure
